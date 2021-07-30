@@ -1,0 +1,10 @@
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\bin\Debug\Kata-NumbersInWords.exe.config
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\bin\Debug\Kata-NumbersInWords.exe
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\bin\Debug\Kata-NumbersInWords.pdb
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata-NumbersInWords.csprojAssemblyReference.cache
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata_NumbersInWords.Form1.resources
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata_NumbersInWords.Properties.Resources.resources
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata-NumbersInWords.csproj.GenerateResource.cache
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata-NumbersInWords.csproj.CoreCompileInputs.cache
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata-NumbersInWords.exe
+C:\Users\Anse\Desktop\Kata-NumbersInWords\Kata-NumbersInWords\obj\Debug\Kata-NumbersInWords.pdb
